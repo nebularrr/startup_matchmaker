@@ -138,6 +138,16 @@ a:visited {
 	font-size: 20px;
 }
 
+.three-one button {
+	background-color: #c6c6c6;
+	width: 190px;
+	height: 40px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	margin-left: 25px;
+}
+
 .three-two {
 	float: right;
 	position: relative;
@@ -161,6 +171,16 @@ a:visited {
 	font-size: 20px;
 }
 
+.three-two button {
+	background-color: #c6c6c6;
+	width: 190px;
+	height: 40px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	margin-left: 25px;
+}
+
 .three-three {
 	float: right;
 	width: 30%;
@@ -172,6 +192,16 @@ a:visited {
 	font-weight: 400;
 	font-size: 20px;
 	line-height: 30px;
+}
+
+.three-three button {
+	background-color: #c6c6c6;
+	width: 190px;
+	height: 40px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	margin-left: 25px;
 }
 
 footer {
