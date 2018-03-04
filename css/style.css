@@ -1,0 +1,124 @@
+body {
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+header {
+	background-color: black;
+	height: 80px;
+}
+
+header h1 {
+	display: inline-block;
+	font-family: 'Merriweather', serif;
+	font-size: 30px;
+	color: #fdf731;
+	padding-left: 25px;
+	position: center;
+
+
+}
+
+header nav {
+	float: right;
+
+}
+
+header a {
+	display: inline-block;
+	font-family: 'Source Sans Pro', sans serif;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-right: 25px;
+	text-decoration: none;
+}
+
+a:visited {
+	color: white;
+}
+
+.one {
+	background-color: #c6c6c6;
+	height: 60px;
+
+
+}
+
+.one p {
+	margin-top: 0px;
+	font-family: 'Merriweather', serif;
+	font-size: 30px;
+	font-weight: 700i;
+	text-align: center;
+	padding-top: 10px;
+
+}
+
+.two {
+	background-image: url("../images/coworking.jpg");
+	/*height: 50px;*/
+	background-size: fill;
+}
+
+.box {
+	display: inline-block;
+	background-color: white;
+	opacity: .8;
+	width: 40%;
+	float: right;
+	margin-right: 25px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+
+.two h2 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+	float: right;
+	background-color: white;
+	padding-right: 124px;
+	text-align: left;
+	margin-bottom: 5px;
+	margin-left: 25px;
+
+}
+
+.two p {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	float: right;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-bottom: 25px;
+	margin-bottom: 10px;
+
+}
+
+.two button { 
+	position: bottom;
+	width: 70%;
+	opacity: 1;
+	margin-bottom: 25px;
+	margin-left: 90px;
+	background-color: #fdf731;
+	width: 190px;
+	height: 40px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 700;
+
+
+
+}
+
+.clearfix::after {
+  content: "";
+  height: 0;
+  visibility: hidden;
+  display: block;
+  clear: both;
+}
