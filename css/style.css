@@ -7,7 +7,7 @@ body {
 
 header {
 	background-color: black;
-	height: 80px;
+	height: 80%;
 }
 
 header h1 {
@@ -23,6 +23,7 @@ header h1 {
 
 header nav {
 	float: right;
+	margin-top: .5%;
 
 }
 
@@ -113,6 +114,49 @@ a:visited {
 
 
 
+}
+
+.three-one {
+	float: left;
+	width: 30%;
+	margin-right: 2%;
+}
+
+.three-one h3 {
+	margin-left: 25px;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.three-one p {
+	margin-left: 25px;
+	line-height: 20px;
+	margin-top: 10px;
+}
+
+.three-two {
+	float: right;
+	position: relative;
+	left: -35%;
+	width: 30%;
+	margin-right: 5%;
+}
+.three-two h3 {
+	margin-left: 25px;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.three-two p {
+	margin-left: 25px;
+	line-height: 20px;
+	margin-top: 10px;
+}
+
+.three-three {
+	float: right;
+	width: 30%;
+	margin-right: 5%;
 }
 
 .clearfix::after {
