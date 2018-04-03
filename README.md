@@ -23,6 +23,9 @@ grey border: #ddd
 
 Find these fonts and weights on Google Fonts:
 Font (weight): Source Sans Pro (Normal, Bold), Merriweather(Bold, Bold Italic) & Oswald(Bold)
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Oswald', sans-serif;
 
 Logo: 30px, Merriweather, Bold
 Nav links: 20px
